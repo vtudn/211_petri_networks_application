@@ -1,0 +1,8 @@
+Due to the operation of item3, we can see clearly on the console:
+
+1. All firing sequences
+2. All reachable markings
+
+*If needed to count the total, please do not forget the first sequence (), and the initial marking.
+
+Therefore, the specifications of item4 have been met.
