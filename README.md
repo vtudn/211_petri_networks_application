@@ -1,6 +1,6 @@
 # petri_networks_application
 
-**SCENARIO**: Under a SARS pandemic where a huge lack of ICU beds occurs in city H, patients should consult specialists in the outpatient clinic of a hospital, we describe the course of business around a specialist in this outpatient clinic of hospital X as a process model, formally, we use Petri Network - a special place/transition system that operates to describe processes.
+**SCENARIO**: Under a SARS pandemic where a huge lack of ICU beds occurs in city H, patients should consult specialists in the outpatient clinic of a hospital, we describe the course of business around a specialist in this clinic of hospital X as a process model, formally, we use Petri Network - a special place/transition system that operates to describe processes.
 
 **PACKAGE DESCRIPTION**:
 
